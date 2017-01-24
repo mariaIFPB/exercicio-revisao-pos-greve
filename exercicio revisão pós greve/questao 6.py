@@ -1,3 +1,3 @@
-x = 123456789
+x = eval(input("digite um valor:"))
 
 print (len(str(x)))
