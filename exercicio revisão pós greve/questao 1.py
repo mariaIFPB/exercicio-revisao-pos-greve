@@ -19,4 +19,3 @@ else:
 print("o total de sua conta é", total)
 print("obrigado pela preferência!")
 print ("volte sempre! :)")
-
